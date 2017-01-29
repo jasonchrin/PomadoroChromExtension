@@ -1,0 +1,13 @@
+html,body{
+	background:#ff0000;
+}
+*{
+	color:#ffffff;
+	text-align:center;
+}
+button{
+	background:#cc0000;
+}
+#timer{
+	font-size:3rem;
+}
