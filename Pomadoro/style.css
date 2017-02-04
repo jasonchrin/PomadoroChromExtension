@@ -1,13 +1,21 @@
 html,body{
-	background:#ff0000;
+
 }
 *{
 	color:#ffffff;
 	text-align:center;
 }
 button{
-	background:#cc0000;
+	background:rgba(80,80,80,.2);
 }
 #timer{
 	font-size:3rem;
+}
+
+.pomadoro{
+	background:#ff0000;
+}
+
+.break{
+	background:#0000ff;
 }
